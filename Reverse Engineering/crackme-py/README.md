@@ -1,7 +1,7 @@
-# keygenme-py
+# crackme-py
 AUTHOR: SYREAL
 ## Description
-[keygenme-trial.py](keygenme-trial.py)
+[crackme.py](crackme.py)
 ### Points
 30
 ### Hints
